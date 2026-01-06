@@ -1,0 +1,27 @@
+<xAPI-Edu-Data 데이터셋을 사용>
+- xAPI-Edu-Data.csv
+- 각 파일의 컬럼은 아래와 같습니다.
+gender: 학생의 성별 (M: 남성, F: 여성)
+NationaliTy: 학생의 국적
+PlaceofBirth: 학생이 태어난 국가
+StageID: 학생이 다니는 학교 (초,중,고)
+GradeID: 학생이 속한 성적 등급
+SectionID: 학생이 속한 반 이름
+Topic: 수강한 과목
+Semester: 수강한 학기 (1학기/2학기)
+Relation: 주 보호자와 학생의 관계
+raisedhands: 학생이 수업 중 손을 든 횟수
+VisITedResources: 학생이 과목 공지를 확인한 횟수
+Discussion: 학생이 토론 그룹에 참여한 횟수
+ParentAnsweringSurvey: 부모가 학교 설문에 참여했는지 여부
+ParentschoolSatisfaction: 부모가 학교에 만족했는지 여부
+StudentAbscenceDays: 학생의 결석 횟수 (7회 이상/미만)
+Class: 학생의 성적 등급 (L: 낮음, M: 보통, H: 높음)
+
+
+<최종 목표>
+- 연구용 Tabular 데이터의 이해
+- 데이터 시각화를 통한 인사이트 습득 방법의 이해
+- Scikit-learn 기반의 모델 학습 방법 습득
+- Logistic Regression, XGBoost 기반의 모델 학습 방법 습득
+- 학습된 모델의 평가 방법 및 시각화 방법 습득
