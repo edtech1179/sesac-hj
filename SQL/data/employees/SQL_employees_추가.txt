@@ -1,0 +1,21 @@
+1. 다운로드 받은 employees 압축 파일을 C:\Myexam 폴더에 옮겨 employees라는 폴더에 압축 해제
+
+2. cmd 명령으로 명령프롬프트(관리자 권한으로 실행)을 실행
+
+ - 다음과 같이 진행
+3. C:\Windows\System32>cd \
+4. C:\>cd Myexam
+5. C:\Myexam>cd employees
+
+ - employees 폴더에 압축 푼 파일이 있는지 파일 목록 확인
+6. C:\Myexam\employees>dir
+
+ - MySQL 실행
+7. C:\Myexam\employees>mysql -u root -p
+8. 설치할 때 설정했던 비밀번호 입력
+
+ - 데이터 입력
+9. mysql>source employees.sql;
+
+ - 데이터 확인
+10. mysql>show databases;
