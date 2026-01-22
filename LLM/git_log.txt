@@ -1,0 +1,17 @@
+commit adec2b14202a68c30c9aa665db9f7ee8f0b055d9
+Author: edtech1179 <tig1179@naver.com>
+Date:   Wed Jan 21 17:15:59 2026 +0900
+
+    Fix: convert langchain nested repo to regular folder
+
+commit 3555a175d0276aba2c51bc107e46a14e7ccd4ec5
+Author: edtech1179 <tig1179@naver.com>
+Date:   Wed Jan 21 17:08:45 2026 +0900
+
+    20260121_모델_I_O
+
+commit 04eccb69dc1fdabbdc53c77ca5b024bb7ae8ba34
+Author: edtech1179 <tig1179@naver.com>
+Date:   Tue Jan 20 17:17:22 2026 +0900
+
+    20260120_랭체인
